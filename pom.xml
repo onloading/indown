@@ -61,9 +61,5 @@
             <id>maven-ali</id>
             <url>http://maven.aliyun.com/nexus/content/groups/public/</url>
         </repository>
-        <repository>
-            <id>git-maven</id>
-            <url>https://gitee.com/fetus/maven-repository/raw/master/repository</url>
-        </repository>
     </repositories>
 </project>
